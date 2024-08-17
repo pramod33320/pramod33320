@@ -1,7 +1,7 @@
 - 👋 Hi, I’m PRAMOD MAHTO.
 - 👀 I’m interested in Web & Application Development.
 - 🌱 I’m currently learning Web Devlopment & Python.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Projects which help me in leveling up my knowledge.
 - 📫 You cam reach me by @~ pramod2002mahto@gmail.com
 
 <!---
